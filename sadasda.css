@@ -1,0 +1,16 @@
+#menu {
+  float: right;
+}
+
+#contenido {
+  float: left;
+}
+#menu {
+  display: none;
+}
+#pie {
+  display: none;
+}
+#cabecera {
+  display: none;
+}
