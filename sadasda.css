@@ -1,44 +1,7 @@
-
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-#contenedor {
-  width: 80%;
-  margin: 0 auto;
-}
-
-
-#cabecera {
-  background-color: #ccc;
-  padding: 20px;
-  text-align: center;
-}
-
-
 #menu {
-  width: 20%;
-  background-color: #f2f2f2;
-  padding: 10px;
-  float: right; 
-  box-sizing: border-box;
+  float: right;
 }
 
 #contenido {
-  width: 75%;
-  background-color: #e6e6e6;
-  padding: 10px;
   float: left;
-  box-sizing: border-box;
-}
-
-
-#pie {
-  clear: both;
-  background-color: #ccc;
-  padding: 20px;
-  text-align: center;
-  margin-top: 20px;
 }
